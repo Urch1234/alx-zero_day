@@ -1,1 +1,1 @@
-My first readme updated on the git directly
+My first readme updated on the git directly.
